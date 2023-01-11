@@ -7,7 +7,7 @@ This is a curated list of projects, examples, code snippets, etc. from customers
 ## Projects
 * [PostGraphile template for Platform.sh](https://github.com/platformista/postgraphile)
 * [Wiki.js for Platform.sh](https://github.com/platformista/wikijs-platformsh)
-* [CraftCSM](https://github.com/platformista/craftcms)
+* [CraftCMS](https://github.com/platformista/craftcms)
 ## Examples
 
 ## Code Snippets
