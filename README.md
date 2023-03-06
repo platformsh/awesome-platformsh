@@ -8,6 +8,7 @@ This is a curated list of projects, examples, code snippets, etc. from customers
 * [PostGraphile template for Platform.sh](https://github.com/platformista/postgraphile)
 * [Wiki.js for Platform.sh](https://github.com/platformista/wikijs-platformsh)
 * [CraftCMS](https://github.com/platformista/craftcms)
+* [odoo](https://github.com/bendll/odoo-template)
 
 ## Examples
 * [Mezzio Swoole Ddd Blueprint](https://github.com/benjaminhirsch/mezzio-swoole-ddd-blueprint)
