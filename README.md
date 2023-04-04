@@ -9,6 +9,7 @@ This is a curated list of projects, examples, code snippets, etc. from customers
 * [Wiki.js for Platform.sh](https://github.com/platformista/wikijs-platformsh)
 * [CraftCMS](https://github.com/platformista/craftcms)
 * [odoo](https://github.com/bendll/odoo-template)
+* [Pimcore v10.x](https://github.com/enabling-solutions/platformsh-pimcore-template), from [Jakala, a Pimcore Partner](https://pimcore.com/nl/partners/vind-een-solution-partner/jakala-f.k.a.h-farm-enabling-solutions_p222384).
 
 ## Examples
 * [Mezzio Swoole Ddd Blueprint](https://github.com/benjaminhirsch/mezzio-swoole-ddd-blueprint)
