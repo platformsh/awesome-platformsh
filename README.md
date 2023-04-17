@@ -14,6 +14,7 @@ This is a curated list of projects, examples, code snippets, etc. from customers
 ## Examples
 * [Mezzio Swoole Ddd Blueprint](https://github.com/benjaminhirsch/mezzio-swoole-ddd-blueprint)
 * [Mastodon](https://github.com/OriPekelman/mastodon/tree/platformify)
+* [n8n.io](https://github.com/GuGuss/n8n-platform-sh)
 
 ## Code Snippets
 * [NVM Cache Example](https://gist.github.com/devicezero/b38ed48bccaef72a0ab24293552992d8)
