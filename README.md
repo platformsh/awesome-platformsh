@@ -20,4 +20,6 @@ This is a curated list of projects, examples, code snippets, etc. from customers
 * [Unofficial JetBrains plugin](https://plugins.jetbrains.com/plugin/18729-platform-sh)
 
 ## Code Snippets
+* [Platform.sh snippets: a collection of snippets for build and deploy hooks](https://github.com/platformsh/snippets)
+* [platformsh-tools: a collection of helper scripts for various Platform.sh tasks by @matthiaz](https://github.com/matthiaz/platformsh-tools)
 * [NVM Cache Example](https://gist.github.com/devicezero/b38ed48bccaef72a0ab24293552992d8)
