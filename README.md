@@ -16,6 +16,7 @@ This is a curated list of projects, examples, code snippets, etc. from customers
 * [Mastodon](https://github.com/OriPekelman/mastodon/tree/platformify)
 * [Mezzio Swoole Ddd Blueprint](https://github.com/benjaminhirsch/mezzio-swoole-ddd-blueprint)
 * [n8n.io](https://github.com/GuGuss/n8n-platform-sh)
+* [Medusa example](https://github.com/platformista/medusa) by [@platformista](https://github.com/platformista)
 
 ## Tools and utilities
 * [Unofficial JetBrains plugin](https://plugins.jetbrains.com/plugin/18729-platform-sh)
