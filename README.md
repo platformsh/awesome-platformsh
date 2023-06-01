@@ -17,6 +17,7 @@ This is a curated list of projects, examples, code snippets, etc. from customers
 * [Mezzio Swoole Ddd Blueprint](https://github.com/benjaminhirsch/mezzio-swoole-ddd-blueprint)
 * [n8n.io](https://github.com/GuGuss/n8n-platform-sh)
 * [Medusa example](https://github.com/platformista/medusa) by [@platformista](https://github.com/platformista)
+* [Snowpark for Python and Streamlit](https://github.com/platformista/streamlit) by [@platformista](https://github.com/platformista)
 
 ## Tools and utilities
 * [Unofficial JetBrains plugin](https://plugins.jetbrains.com/plugin/18729-platform-sh)
